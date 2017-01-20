@@ -3,7 +3,7 @@
 """
 Created on Fri Nov  4 19:30:15 2016
 
-@author: Tristan
+@author: Tristan ds
 """
 
 class C:  #definition de la classe norme commence par une majuscule
